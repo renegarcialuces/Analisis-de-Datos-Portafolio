@@ -9,9 +9,9 @@ Transformando dados em insights para apoiar a tomada de decisões.
 
 # 👨‍💻 Sobre mí | Sobre mim
 
-Analista de datos en freelacer con más de seis años de experiencia con enfoque en:
+Analista de datos en freelacer con más de siete (7) años de experiencia con enfoque en:
 
-Analista de dados freelancer com mais de seis anos de experiência, com foco em:
+Analista de dados freelancer com mais de sete (7) anos de experiência, com foco em:
 
 • Exploratory Data Analysis (EDA)  
 • Visualización de datos | Visualização de Dados

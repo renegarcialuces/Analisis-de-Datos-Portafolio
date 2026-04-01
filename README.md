@@ -26,7 +26,7 @@ Actualmente desarrollando proyectos de análisis de datos utilizando Python, aun
 
 email: renegarcialuces@gmail.com<br>
 LinkedIn: www.linkedin.com/in/rené-garcia-luces-75215616a<br>
-GitHub:
+Web: https://rgl-freelancer.netlify.app/
 
 ---
 
